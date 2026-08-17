@@ -1,0 +1,3 @@
+# Production Container Stack Specification
+version: '3.8'
+services:
