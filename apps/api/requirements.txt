@@ -5,3 +5,9 @@ psycopg2-binary
 redis
 qdrant-client
 langgraph
+pydantic-settings
+structlog
+alembic
+python-dotenv
+sentence-transformers
+torch
